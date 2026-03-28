@@ -1,0 +1,1 @@
+import{a as e,i as t,n,r,t as i}from"./index-VfWsghA0.js";var a={},o={class:`flex items-center justify-center h-full`},s={class:`text-gray-400 text-lg`};function c(i,a){return t(),r(`div`,o,[n(`p`,s,e(i.$route.name)+` — Coming soon`,1)])}var l=i(a,[[`render`,c]]);export{l as default};
