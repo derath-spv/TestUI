@@ -10,7 +10,7 @@ const routes = [
   { path: '/messages', name: 'Messages', component: Messages },
   { path: '/documents', name: 'Documents', component: () => import('../views/Placeholder.vue') },
   { path: '/requests', name: 'Requests', component: () => import('../views/Placeholder.vue') },
-  { path: '/calendar', name: 'Calendar', component: () => import('../views/Placeholder.vue') },
+  { path: '/calendar', name: 'Calendar', component: () => import('../views/Calendar.vue') },
   { path: '/training', name: 'Training', component: () => import('../views/Placeholder.vue') },
   { path: '/research', name: 'Research', component: () => import('../views/Placeholder.vue') },
   { path: '/profile', name: 'Profile', component: () => import('../views/Placeholder.vue') },
